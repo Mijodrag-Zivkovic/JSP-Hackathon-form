@@ -1,0 +1,15 @@
+naziv: tim1
+email: mijodrag98@gmail.com
+telefon: 123
+moto: dsa
+kako ste culi za nas: prijatelj
+broj clanova: 2
+clanovi:
+ime: Mijodrag
+prezime: Å½ivkoviÄ?
+email: mijodrag98@gmail.com
+pozicija: programer
+ime: branko
+prezime: perisic
+email: mzivkovic17@raf.rs
+pozicija: si

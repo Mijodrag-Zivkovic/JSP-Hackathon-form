@@ -1,0 +1,15 @@
+naziv: tim1
+email: null
+telefon: null
+moto: null
+kako ste culi za nas: oglas
+broj clanova: 2
+clanovi:
+ime: Mijodrag
+prezime: 
+email: 
+pozicija: 
+ime: Asd
+prezime: 
+email: 
+pozicija: 
